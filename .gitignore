@@ -18,3 +18,6 @@ venv/
 # OS / editor
 Thumbs.db
 .DS_Store
+
+*.rar
+
