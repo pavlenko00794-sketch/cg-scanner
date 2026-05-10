@@ -1,0 +1,6 @@
+telethon>=1.34.0
+praw>=7.7.1
+instagrapi>=2.0.0
+httpx>=0.27.0
+python-dateutil>=2.9.0
+colorama>=0.4.6

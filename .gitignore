@@ -1,0 +1,20 @@
+# Secrets — keep local only
+config.py
+
+# Runtime / sessions
+*.session
+logs/
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+.env
+.env.*
+
+# OS / editor
+Thumbs.db
+.DS_Store
